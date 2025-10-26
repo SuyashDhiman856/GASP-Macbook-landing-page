@@ -1,0 +1,1 @@
+Suyash Dhiman developed this Apple landing page for th Macbook Pro by learning from JS Mastery Youtube channel.
